@@ -1,0 +1,16 @@
+[
+  {
+    "model": "rzn.TasksKey",
+    "id": 6,
+    "fields": {
+      "value": {"str1": "111"}
+    }
+  },
+  {
+    "model": "rzn.TasksKey",
+    "id": 8,
+    "fields": {
+      "value": {"str2": "222"}
+    }
+  }
+]

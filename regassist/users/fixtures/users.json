@@ -1,0 +1,962 @@
+[
+  {
+    "model": "users.CustomUser",
+    "pk": 1,
+    "fields": {
+      "is_superuser": false,
+      "username": "143681447_Salman",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-01-15 14:12",
+      "comments": "",
+      "tg_chat_id": 143681447,
+      "tg_first_name": "Salman",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 2,
+    "fields": {
+      "is_superuser": false,
+      "username": "1210933780_Татьяна",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-01-19 14:12",
+      "comments": "",
+      "tg_chat_id": 1210933780,
+      "tg_first_name": "Татьяна",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 3,
+    "fields": {
+      "is_superuser": false,
+      "username": "1226543199_Maria",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-01-19 14:12",
+      "comments": "",
+      "tg_chat_id": 1226543199,
+      "tg_first_name": "Maria",
+      "tg_last_name": "Axelrod",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 4,
+    "fields": {
+      "is_superuser": false,
+      "username": "1361289323_Ольга",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-01-19 14:12",
+      "comments": "",
+      "tg_chat_id": 1361289323,
+      "tg_first_name": "Ольга",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 5,
+    "fields": {
+      "is_superuser": false,
+      "username": "1503582834_Just",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-01-21 14:12",
+      "comments": "",
+      "tg_chat_id": 1503582834,
+      "tg_first_name": "Just",
+      "tg_last_name": "River",
+      "tg_username": "Just_River"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 6,
+    "fields": {
+      "is_superuser": false,
+      "username": "1220345733_Dima",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-01-24 19:51",
+      "comments": "",
+      "tg_chat_id": 1220345733,
+      "tg_first_name": "Dima",
+      "tg_last_name": "Prod",
+      "tg_username": "Dima_Prodaja"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 7,
+    "fields": {
+      "is_superuser": false,
+      "username": "1236603008_Маргарита",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-01-29 9:02",
+      "comments": "",
+      "tg_chat_id": 1236603008,
+      "tg_first_name": "Маргарита",
+      "tg_last_name": "Куляс",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 8,
+    "fields": {
+      "is_superuser": false,
+      "username": "1212845307_Юлия",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-01-29 9:06",
+      "comments": "",
+      "tg_chat_id": 1212845307,
+      "tg_first_name": "Юлия",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 9,
+    "fields": {
+      "is_superuser": false,
+      "username": "545859282_Alina",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-02-08 10:33",
+      "comments": "",
+      "tg_chat_id": 545859282,
+      "tg_first_name": "Alina",
+      "tg_last_name": "Karimova",
+      "tg_username": "AlinaGaff"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 10,
+    "fields": {
+      "is_superuser": false,
+      "username": "1563941910_Ольга",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-02-11 10:42",
+      "comments": "",
+      "tg_chat_id": 1563941910,
+      "tg_first_name": "Ольга",
+      "tg_last_name": "Богданова",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 11,
+    "fields": {
+      "is_superuser": false,
+      "username": "531170784_Ксения Бондаренко",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-03-12 11:19",
+      "comments": "",
+      "tg_chat_id": 531170784,
+      "tg_first_name": "Ксения Бондаренко",
+      "tg_last_name": "",
+      "tg_username": "Myosotis_palustris"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 12,
+    "fields": {
+      "is_superuser": false,
+      "username": "517077382_Vera",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-07 10:07",
+      "comments": "",
+      "tg_chat_id": 517077382,
+      "tg_first_name": "Vera",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 13,
+    "fields": {
+      "is_superuser": false,
+      "username": "1106057908_Katrina",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-07 12:39",
+      "comments": "",
+      "tg_chat_id": 1106057908,
+      "tg_first_name": "Katrina",
+      "tg_last_name": "Katerina",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 14,
+    "fields": {
+      "is_superuser": false,
+      "username": "719160167_Mari",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-08 9:13",
+      "comments": "",
+      "tg_chat_id": 719160167,
+      "tg_first_name": "Mari",
+      "tg_last_name": "Gazizova",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 15,
+    "fields": {
+      "is_superuser": false,
+      "username": "493700716_Оксана",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-08 10:58",
+      "comments": "",
+      "tg_chat_id": 493700716,
+      "tg_first_name": "Оксана",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 16,
+    "fields": {
+      "is_superuser": false,
+      "username": "1463859336_Anna",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-08 11:12",
+      "comments": "",
+      "tg_chat_id": 1463859336,
+      "tg_first_name": "Anna",
+      "tg_last_name": "Kiseleva",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 17,
+    "fields": {
+      "is_superuser": false,
+      "username": "929245319_Valentina",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-08 11:13",
+      "comments": "",
+      "tg_chat_id": 929245319,
+      "tg_first_name": "Valentina",
+      "tg_last_name": "Semenova",
+      "tg_username": "ValentinaSemenova"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 18,
+    "fields": {
+      "is_superuser": false,
+      "username": "337940617_Мымрик",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-08 13:20",
+      "comments": "",
+      "tg_chat_id": 337940617,
+      "tg_first_name": "Мымрик",
+      "tg_last_name": "",
+      "tg_username": "mymrikmsk"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 19,
+    "fields": {
+      "is_superuser": false,
+      "username": "91103155_Alexandra",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-11 9:30",
+      "comments": "",
+      "tg_chat_id": 91103155,
+      "tg_first_name": "Alexandra",
+      "tg_last_name": "Kurganova",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 20,
+    "fields": {
+      "is_superuser": false,
+      "username": "324878651_Анастасия",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-11 11:56",
+      "comments": "",
+      "tg_chat_id": 324878651,
+      "tg_first_name": "Анастасия",
+      "tg_last_name": "",
+      "tg_username": "anastasija_kk"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 21,
+    "fields": {
+      "is_superuser": false,
+      "username": "277828206_Yersinia",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-11 17:09",
+      "comments": "",
+      "tg_chat_id": 277828206,
+      "tg_first_name": "Yersinia",
+      "tg_last_name": "",
+      "tg_username": "imois"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 22,
+    "fields": {
+      "is_superuser": false,
+      "username": "224981031_Вера",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-12 20:04",
+      "comments": "",
+      "tg_chat_id": 224981031,
+      "tg_first_name": "Вера",
+      "tg_last_name": "Катакинова",
+      "tg_username": "fides_k"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 23,
+    "fields": {
+      "is_superuser": false,
+      "username": "934801091_Remuve",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-20 21:49",
+      "comments": "",
+      "tg_chat_id": 934801091,
+      "tg_first_name": "Remuve",
+      "tg_last_name": "Enter",
+      "tg_username": "Noki_nnoki"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 24,
+    "fields": {
+      "is_superuser": false,
+      "username": "564345581_Дмитрий",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-23 8:04",
+      "comments": "",
+      "tg_chat_id": 564345581,
+      "tg_first_name": "Дмитрий",
+      "tg_last_name": "Зленко",
+      "tg_username": "zlenko_dmitriy"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 25,
+    "fields": {
+      "is_superuser": false,
+      "username": "1290169723_Сергей Шалфеев",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-23 12:13",
+      "comments": "",
+      "tg_chat_id": 1290169723,
+      "tg_first_name": "Сергей Шалфеев",
+      "tg_last_name": "",
+      "tg_username": "shalfeyevs"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 26,
+    "fields": {
+      "is_superuser": false,
+      "username": "262557802_Rina",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-23 14:57",
+      "comments": "",
+      "tg_chat_id": 262557802,
+      "tg_first_name": "Rina",
+      "tg_last_name": "R",
+      "tg_username": "Katrin1404"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 27,
+    "fields": {
+      "is_superuser": false,
+      "username": "410463822_Andrey",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-23 16:13",
+      "comments": "",
+      "tg_chat_id": 410463822,
+      "tg_first_name": "Andrey",
+      "tg_last_name": "Turiyskiy",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 28,
+    "fields": {
+      "is_superuser": false,
+      "username": "1133087725_@GogiyaAR",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-23 18:25",
+      "comments": "",
+      "tg_chat_id": 1133087725,
+      "tg_first_name": "@GogiyaAR",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 29,
+    "fields": {
+      "is_superuser": false,
+      "username": "509733277_bobby",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-24 9:10",
+      "comments": "",
+      "tg_chat_id": 509733277,
+      "tg_first_name": "bobby",
+      "tg_last_name": "zee",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 30,
+    "fields": {
+      "is_superuser": false,
+      "username": "473530931_Maria",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-25 11:00",
+      "comments": "",
+      "tg_chat_id": 473530931,
+      "tg_first_name": "Maria",
+      "tg_last_name": "K.",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 31,
+    "fields": {
+      "is_superuser": false,
+      "username": "180007240_Kamila",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-25 11:00",
+      "comments": "",
+      "tg_chat_id": 180007240,
+      "tg_first_name": "Kamila",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 32,
+    "fields": {
+      "is_superuser": false,
+      "username": "415929700_Irina",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-11-29 18:10",
+      "comments": "",
+      "tg_chat_id": 415929700,
+      "tg_first_name": "Irina",
+      "tg_last_name": "",
+      "tg_username": "iraput"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 33,
+    "fields": {
+      "is_superuser": false,
+      "username": "1320302605_-Alex_",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-12-06 9:37",
+      "comments": "",
+      "tg_chat_id": 1320302605,
+      "tg_first_name": "#ИМЯ?",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 34,
+    "fields": {
+      "is_superuser": false,
+      "username": "1062901906_Татьяна",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-12-06 16:30",
+      "comments": "",
+      "tg_chat_id": 1062901906,
+      "tg_first_name": "Татьяна",
+      "tg_last_name": "Рославцева",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 35,
+    "fields": {
+      "is_superuser": false,
+      "username": "1615318246_Светлана",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-12-07 20:18",
+      "comments": "",
+      "tg_chat_id": 1615318246,
+      "tg_first_name": "Светлана",
+      "tg_last_name": "Ершова",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 36,
+    "fields": {
+      "is_superuser": false,
+      "username": "724668101_Любовь",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-12-15 19:48",
+      "comments": "",
+      "tg_chat_id": 724668101,
+      "tg_first_name": "Любовь",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 37,
+    "fields": {
+      "is_superuser": false,
+      "username": "654878143_Marianna",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-12-22 12:24",
+      "comments": "",
+      "tg_chat_id": 654878143,
+      "tg_first_name": "Marianna",
+      "tg_last_name": "Vasilieva",
+      "tg_username": "Marianna_Vasilieva"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 38,
+    "fields": {
+      "is_superuser": false,
+      "username": "1119677286_Елена",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-12-24 14:55",
+      "comments": "",
+      "tg_chat_id": 1119677286,
+      "tg_first_name": "Елена",
+      "tg_last_name": "Чикачнаа",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 39,
+    "fields": {
+      "is_superuser": false,
+      "username": "303351588_Андрей",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-12-28 16:52",
+      "comments": "",
+      "tg_chat_id": 303351588,
+      "tg_first_name": "Андрей",
+      "tg_last_name": "Соловьёв",
+      "tg_username": "solovevandreyandreevich"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 40,
+    "fields": {
+      "is_superuser": false,
+      "username": "500975768_Екатерина",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-12-28 16:52",
+      "comments": "",
+      "tg_chat_id": 500975768,
+      "tg_first_name": "Екатерина",
+      "tg_last_name": "",
+      "tg_username": "Ekaterina_Guziy"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 41,
+    "fields": {
+      "is_superuser": false,
+      "username": "1158916548_Мария",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-12-29 11:02",
+      "comments": "",
+      "tg_chat_id": 1158916548,
+      "tg_first_name": "Мария",
+      "tg_last_name": "Груздова",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 42,
+    "fields": {
+      "is_superuser": false,
+      "username": "391405320_Jane",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-01-14 15:16",
+      "comments": "",
+      "tg_chat_id": 391405320,
+      "tg_first_name": "Jane",
+      "tg_last_name": "",
+      "tg_username": "janevarera"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 43,
+    "fields": {
+      "is_superuser": false,
+      "username": "1980233575_Kha",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-01-17 10:39",
+      "comments": "",
+      "tg_chat_id": 1980233575,
+      "tg_first_name": "Kha",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 44,
+    "fields": {
+      "is_superuser": false,
+      "username": "5096022728_Evgenia",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-01-19 16:12",
+      "comments": "",
+      "tg_chat_id": 5096022728,
+      "tg_first_name": "Evgenia",
+      "tg_last_name": "Savelieva",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 45,
+    "fields": {
+      "is_superuser": false,
+      "username": "1472019715_LoNa",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-01-20 12:16",
+      "comments": "",
+      "tg_chat_id": 1472019715,
+      "tg_first_name": "LoNa",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 46,
+    "fields": {
+      "is_superuser": false,
+      "username": "1331387854_Oleg",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-01-25 17:37",
+      "comments": "",
+      "tg_chat_id": 1331387854,
+      "tg_first_name": "Oleg",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 47,
+    "fields": {
+      "is_superuser": false,
+      "username": "255446773_Liubov",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-01-27 17:57",
+      "comments": "",
+      "tg_chat_id": 255446773,
+      "tg_first_name": "Liubov",
+      "tg_last_name": "Piliagina",
+      "tg_username": "Pillyulka"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 48,
+    "fields": {
+      "is_superuser": false,
+      "username": "399924230_Kirill",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-02-01 15:39",
+      "comments": "",
+      "tg_chat_id": 399924230,
+      "tg_first_name": "Kirill",
+      "tg_last_name": "Dementyev",
+      "tg_username": "kdementi"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 49,
+    "fields": {
+      "is_superuser": false,
+      "username": "738868443_Victoria",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-02-03 12:49",
+      "comments": "",
+      "tg_chat_id": 738868443,
+      "tg_first_name": "Victoria",
+      "tg_last_name": "Alfa",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 50,
+    "fields": {
+      "is_superuser": false,
+      "username": "287126996_",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-02-17 14:20",
+      "comments": "",
+      "tg_chat_id": 287126996,
+      "tg_first_name": "",
+      "tg_last_name": "Оля",
+      "tg_username": "olyaoolya"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 51,
+    "fields": {
+      "is_superuser": false,
+      "username": "5037333695_Mc",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-02-20 22:44",
+      "comments": "",
+      "tg_chat_id": 5037333695,
+      "tg_first_name": "Mc",
+      "tg_last_name": "Dick",
+      "tg_username": "DeathAdder1234"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 52,
+    "fields": {
+      "is_superuser": false,
+      "username": "921612798_Муи",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-02-20 22:52",
+      "comments": "",
+      "tg_chat_id": 921612798,
+      "tg_first_name": "Муи",
+      "tg_last_name": "",
+      "tg_username": "muishka23"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 53,
+    "fields": {
+      "is_superuser": false,
+      "username": "977373713_N",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-03-29 9:50",
+      "comments": "",
+      "tg_chat_id": 977373713,
+      "tg_first_name": "N",
+      "tg_last_name": "",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 54,
+    "fields": {
+      "is_superuser": false,
+      "username": "1175562807_Юлия",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-03-30 11:03",
+      "comments": "",
+      "tg_chat_id": 1175562807,
+      "tg_first_name": "Юлия",
+      "tg_last_name": "Гусева",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 55,
+    "fields": {
+      "is_superuser": false,
+      "username": "402434278_Ebsixya",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-03-30 16:29",
+      "comments": "",
+      "tg_chat_id": 402434278,
+      "tg_first_name": "Ebsixya",
+      "tg_last_name": "",
+      "tg_username": "Ebsixya"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 56,
+    "fields": {
+      "is_superuser": false,
+      "username": "418691283_Olga",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-04-01 19:14",
+      "comments": "",
+      "tg_chat_id": 418691283,
+      "tg_first_name": "Olga",
+      "tg_last_name": "Novikova",
+      "tg_username": "helga7717"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 57,
+    "fields": {
+      "is_superuser": false,
+      "username": "326552947_Андрей",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-04-27 15:15",
+      "comments": "",
+      "tg_chat_id": 326552947,
+      "tg_first_name": "Андрей",
+      "tg_last_name": "Савченко",
+      "tg_username": "mrtreea"
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 58,
+    "fields": {
+      "is_superuser": false,
+      "username": "5287623898_G",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-05-24 6:19",
+      "comments": "",
+      "tg_chat_id": 5287623898,
+      "tg_first_name": "G",
+      "tg_last_name": "G",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 59,
+    "fields": {
+      "is_superuser": false,
+      "username": "5259217471_Sergey",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-07-18 11:39",
+      "comments": "",
+      "tg_chat_id": 5259217471,
+      "tg_first_name": "Sergey",
+      "tg_last_name": "Shalfeyev",
+      "tg_username": ""
+    }
+  },
+  {
+    "model": "users.CustomUser",
+    "pk": 60,
+    "fields": {
+      "is_superuser": false,
+      "username": "1006318328_Ангелина",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-07-26 22:35",
+      "comments": "",
+      "tg_chat_id": 1006318328,
+      "tg_first_name": "Ангелина",
+      "tg_last_name": "",
+      "tg_username": "linalii12"
+    }
+  }
+]

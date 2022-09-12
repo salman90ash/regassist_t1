@@ -1,13 +1,11 @@
-import asyncio
+# import asyncio
+from aiogram import executor
+from create_bot import dp
+from handlers import client, common
 
-from aiogram import Bot, Dispatcher, executor
-from config import BOT_TOKEN
-
-loop = asyncio.new_event_loop()
-bot = Bot(BOT_TOKEN, parse_mode='HTML')
-dp = Dispatcher(bot)
-
+client.register_handlers_client(dp)
+common.register_handlers_common(dp)
 
 if __name__ == "__main__":
-    from handlers import dp
-    executor.start_polling(dp)
+    # from rzn.tg.handlers.common import dp
+    executor.start_polling(dp, skip_updates=True)
